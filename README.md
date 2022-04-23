@@ -37,9 +37,9 @@ The following are screenshots of the results from each Deliverable.
 
 ## 4. Visualizing Cryptocurrencies Results
 
+![Tradable Crypto](/Resources/D4_tradable_crypto.jpg)
 ![New DataFrame](/Resources/D4_new_df.jpg)
 ![Graph of Total Coins Mined](/Resources/D4_total_coins_mined_graph.jpg)
-![Tradable Crypto](/Resources/D4_tradable_crypto.jpg)
 
 
 People call me JC, the short for [Juanita C. Nunez](https://www.linkedin.com/in/juanitacamargonunez/). Contact me for any questions! I love networking, so here you go  my [LinkedIn] (https://www.linkedin.com/in/juanitacamargonunez/) :)
